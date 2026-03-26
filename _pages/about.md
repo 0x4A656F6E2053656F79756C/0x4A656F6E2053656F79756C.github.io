@@ -22,6 +22,10 @@ latest_posts:
   enabled: false
 ---
 
+<div class="alert alert-warning" role="alert">
+  🚧 <b>Notice:</b> This website is currently under construction. Some pages and links may contain placeholder data from the template.
+</div>
+
 Hi, I'm Seoyul Jeon, currently pursuing my B.S. in Computer Science (with a minor in Electrical Engineering) at KAIST. I am currently a Research Intern at the Sensing Intelligence and Cyber-Physical Security (CyPhy) Lab.
 
 My primary research interests lie in the intersection of wireless communication, cyber-physical systems, and artificial intelligence. Recently, I have been working on developing a **Wi-Fi CSI-based Presence Detection System** utilizing the IEEE 802.11bf standard. 
